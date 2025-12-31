@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7000FF,00C7FF&height=220&section=header&text=Anupam%20Raj&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=B.%20tech%20%7C%20Computer%20Science&descAlignY=60&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7000FF,00C7FF&height=220&section=header&text=Anupam%20Raj&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=B.Tech%20%7C%20Computer%20Science&descAlignY=60&descSize=20" width="100%"/>
 </div>
 <table align="center">
   <tr>
@@ -10,7 +10,7 @@
     </td>
     <td width="70%" align="left">
       <h1>Hi, I'm <span style="color:#7000FF;">Anupam Raj</span> 👋</h1>
-      <h3>🚀 B.Tech Student @ RGPV | DSA Enthusiast</h3>
+      <h3>🚀 B.Tech 2nd yr Student @ RGPV | DSA Enthusiast</h3>
     </td>
   </tr>
 </table>
@@ -65,6 +65,7 @@ My academic focus is on the **RGPV Syllabus**, while my personal passion lies in
 | **Introduction to Modern AI** | CISCO | 2025 |
 | **Apply AI Analyze Customer Reviews** | CISCO | 2025 |
 | **C Essentials 1 & 2** | CISCO | 2025 |
+| **Python Essentials 1 & 2** | CISCO | 2025 |
 | **Java** | DUCAT | 2024 |
 | **C++** | CYBROM | 2024 |
 | **C** | DUCAT | 2024 |
@@ -106,12 +107,7 @@ My academic focus is on the **RGPV Syllabus**, while my personal passion lies in
        onmouseout="this.style.transform='scale(1)'"/>
 </a>
 
-<a href="tel:+918002070439">
-  <img src="https://img.shields.io/badge/Phone-25D366?style=flat-square&logo=whatsapp&logoColor=white"
-       style="transition:transform 0.3s ease; margin:4px;"
-       onmouseover="this.style.transform='scale(1.12)'"
-       onmouseout="this.style.transform='scale(1)'"/>
-</a>
+
 
 </div>
 <p align="center" style="font-size:44px; color:gray;">
